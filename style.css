@@ -1,0 +1,43 @@
+.p{
+    
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    line-height: 1.8em;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.leftcs{
+    text-align: justify;
+    line-height: 1.8em;
+    font-size: 18px;
+    font-family: monospace;
+    background-color: chartreuse;
+    
+}
+
+.imgdiv
+{
+    background-color:darkgray;
+}
+.p1{
+     margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    line-height: 1.2em;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.gallery{
+    background-color: #D3CCCA;
+}
+.cs{
+    line-height: 1.8em;
+    font-size: 14px;
+    font-family: monospace;
+    text-align: justify;
+}
